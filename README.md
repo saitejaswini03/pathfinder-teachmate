@@ -51,13 +51,39 @@ npm run dev
 
 ## What technologies are used for this project?
 
-This project is built with:
+This project is built with a modern, comprehensive tech stack:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### Core Framework & Build Tools
+- **Vite** - Lightning fast build tool and dev server
+- **React 18** - Modern React with concurrent features
+- **TypeScript** - Type-safe development
+- **Tailwind CSS** - Utility-first CSS framework
+
+### UI & Design System  
+- **shadcn/ui** - Beautiful, accessible component library
+- **Framer Motion** - Smooth animations and transitions
+- **Lucide React** - Beautiful icon library
+- **React Confetti** - Celebration effects for learning achievements
+
+### State Management & Data
+- **Zustand** - Lightweight state management
+- **TanStack Query** - Server state management & caching
+- **React Hook Form + Zod** - Form handling with validation
+
+### AI & Voice Integration
+- **OpenAI API** - GPT integration for AI features
+- **React Speech Kit** - Text-to-speech and speech recognition
+- **React Markdown** - Rich text rendering
+- **React Syntax Highlighter** - Code highlighting
+
+### Backend & Database
+- **Supabase** - Full-stack backend (auth, database, storage)
+- **Real-time subscriptions** - Live updates and collaboration
+
+### Developer Experience
+- **Hot Toast** - Beautiful notifications
+- **ESLint** - Code linting and quality
+- **Prettier** - Code formatting
 
 ## How can I deploy this project?
 
